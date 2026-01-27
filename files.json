@@ -1,12 +1,6 @@
 {
   "files": [
     {
-      "name": "CINFO.BIN",
-      "path": "CINFO.BIN",
-      "url": "https://www.dropbox.com/scl/fi/32b4bs399zer4gqr9skmf/CINFO.BIN?rlkey=9wqnv5uui15czpfemh9d2e48e&st=4czffdmq&dl=1",
-      "size": 634084
-    },
-    {
       "name": "gtasatelem.set",
       "path": "gtasatelem.set",
       "url": "https://server3.sampmobile.com/files/gtasatelem.set",
@@ -2179,4 +2173,5 @@
       "size": 38743
     }
   ]
+
 }
