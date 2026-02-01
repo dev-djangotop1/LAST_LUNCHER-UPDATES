@@ -7,9 +7,15 @@
       "size": 392
     },
 	{
-      "name": "samp.json",
-      "path": "anim/samp.json",
-      "url": "https://www.dropbox.com/scl/fi/d820tvff2cwb24x1lowrr/samp.json?rlkey=5vef2r3nr4qcwupdpr3qp9lub&st=8zg537wb&dl=1",
+      "name": "samp.ini",
+      "path": "anim/samp.ini",
+      "url": "https://www.dropbox.com/scl/fi/8xcgflt8k0lwaj2z96m4j/samp.ini?rlkey=cdsexubbv8s1mp894unpx1n1e&st=fn1tr46e&dl=1",
+      "size": 127
+    },
+	  {
+      "name": "samp.ini",
+      "path": "samp.ini",
+      "url": "https://www.dropbox.com/scl/fi/8xcgflt8k0lwaj2z96m4j/samp.ini?rlkey=cdsexubbv8s1mp894unpx1n1e&st=fn1tr46e&dl=1",
       "size": 127
     },
     {
