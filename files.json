@@ -6,13 +6,13 @@
       "url": "https://server3.sampmobile.com/files/gtasatelem.set",
       "size": 392
     },
-	{
+    {
       "name": "samp.ini",
       "path": "anim/samp.ini",
       "url": "https://www.dropbox.com/scl/fi/8xcgflt8k0lwaj2z96m4j/samp.ini?rlkey=cdsexubbv8s1mp894unpx1n1e&st=fn1tr46e&dl=1",
       "size": 127
     },
-	  {
+    {
       "name": "samp.ini",
       "path": "samp.ini",
       "url": "https://www.dropbox.com/scl/fi/8xcgflt8k0lwaj2z96m4j/samp.ini?rlkey=cdsexubbv8s1mp894unpx1n1e&st=fn1tr46e&dl=1",
@@ -1381,72 +1381,6 @@
       "size": 561152
     },
     {
-      "name": "arial.ttf",
-      "path": "fonts/arial.ttf",
-      "url": "https://server3.sampmobile.com/files/arial.ttf",
-      "size": 367112
-    },
-    {
-      "name": "arial_bold.ttf",
-      "path": "fonts/arial_bold.ttf",
-      "url": "https://server3.sampmobile.com/files/arial_bold.ttf",
-      "size": 352224
-    },
-    {
-      "name": "georgia.ttf",
-      "path": "fonts/georgia.ttf",
-      "url": "https://server3.sampmobile.com/files/georgia.ttf",
-      "size": 219712
-    },
-    {
-      "name": "impact.ttf",
-      "path": "fonts/impact.ttf",
-      "url": "https://server3.sampmobile.com/files/impact.ttf",
-      "size": 206784
-    },
-    {
-      "name": "palatino_linotype.ttf",
-      "path": "fonts/palatino_linotype.ttf",
-      "url": "https://server3.sampmobile.com/files/palatino_linotype.ttf",
-      "size": 489884
-    },
-    {
-      "name": "quartz_ms.ttf",
-      "path": "fonts/quartz_ms.ttf",
-      "url": "https://server3.sampmobile.com/files/quartz_ms.ttf",
-      "size": 51032
-    },
-    {
-      "name": "segoe_print.ttf",
-      "path": "fonts/segoe_print.ttf",
-      "url": "https://server3.sampmobile.com/files/segoe_print.ttf",
-      "size": 172448
-    },
-    {
-      "name": "segoe_script.ttf",
-      "path": "fonts/segoe_script.ttf",
-      "url": "https://server3.sampmobile.com/files/segoe_script.ttf",
-      "size": 620204
-    },
-    {
-      "name": "tahoma.ttf",
-      "path": "fonts/tahoma.ttf",
-      "url": "https://server3.sampmobile.com/files/tahoma.ttf",
-      "size": 939280
-    },
-    {
-      "name": "webdings.ttf",
-      "path": "fonts/webdings.ttf",
-      "url": "https://server3.sampmobile.com/files/webdings.ttf",
-      "size": 120560
-    },
-    {
-      "name": "wingding.ttf",
-      "path": "fonts/wingding.ttf",
-      "url": "https://server3.sampmobile.com/files/wingding.ttf",
-      "size": 82180
-    },
-    {
       "name": "effects.fxp",
       "path": "models/effects.fxp",
       "url": "https://server3.sampmobile.com/files/effects.fxp",
@@ -1553,72 +1487,6 @@
       "path": "SAMP/WEAPON.dat",
       "url": "https://server3.sampmobile.com/files/WEAPON.dat",
       "size": 11585
-    },
-    {
-      "name": "arial.ttf",
-      "path": "SAMP/fonts/arial.ttf",
-      "url": "https://server3.sampmobile.com/files/arial.ttf",
-      "size": 367112
-    },
-    {
-      "name": "arial_bold.ttf",
-      "path": "SAMP/fonts/arial_bold.ttf",
-      "url": "https://server3.sampmobile.com/files/arial_bold.ttf",
-      "size": 352224
-    },
-    {
-      "name": "georgia.ttf",
-      "path": "SAMP/fonts/georgia.ttf",
-      "url": "https://server3.sampmobile.com/files/georgia.ttf",
-      "size": 219712
-    },
-    {
-      "name": "impact.ttf",
-      "path": "SAMP/fonts/impact.ttf",
-      "url": "https://server3.sampmobile.com/files/impact.ttf",
-      "size": 206784
-    },
-    {
-      "name": "palatino_linotype.ttf",
-      "path": "SAMP/fonts/palatino_linotype.ttf",
-      "url": "https://server3.sampmobile.com/files/palatino_linotype.ttf",
-      "size": 489884
-    },
-    {
-      "name": "quartz_ms.ttf",
-      "path": "SAMP/fonts/quartz_ms.ttf",
-      "url": "https://server3.sampmobile.com/files/quartz_ms.ttf",
-      "size": 51032
-    },
-    {
-      "name": "segoe_print.ttf",
-      "path": "SAMP/fonts/segoe_print.ttf",
-      "url": "https://server3.sampmobile.com/files/segoe_print.ttf",
-      "size": 172448
-    },
-    {
-      "name": "segoe_script.ttf",
-      "path": "SAMP/fonts/segoe_script.ttf",
-      "url": "https://server3.sampmobile.com/files/segoe_script.ttf",
-      "size": 620204
-    },
-    {
-      "name": "tahoma.ttf",
-      "path": "SAMP/fonts/tahoma.ttf",
-      "url": "https://server3.sampmobile.com/files/tahoma.ttf",
-      "size": 939280
-    },
-    {
-      "name": "webdings.ttf",
-      "path": "SAMP/fonts/webdings.ttf",
-      "url": "https://server3.sampmobile.com/files/webdings.ttf",
-      "size": 120560
-    },
-    {
-      "name": "wingding.ttf",
-      "path": "SAMP/fonts/wingding.ttf",
-      "url": "https://server3.sampmobile.com/files/wingding.ttf",
-      "size": 82180
     },
     {
       "name": "gta3.img",
@@ -2165,25 +2033,6 @@
       "path": "Text/spanish.gxt",
       "url": "https://server3.sampmobile.com/files/spanish.gxt",
       "size": 1386744
-    },
-    {
-      "name": "JapaneseFont.met",
-      "path": "Textures/fonts/JapaneseFont.met",
-      "url": "https://server3.sampmobile.com/files/JapaneseFont.met",
-      "size": 45171
-    },
-    {
-      "name": "RussianFont.met",
-      "path": "Textures/fonts/RussianFont.met",
-      "url": "https://server3.sampmobile.com/files/RussianFont.met",
-      "size": 4279
-    },
-    {
-      "name": "RussianFont.png",
-      "path": "Textures/fonts/RussianFont.png",
-      "url": "https://server3.sampmobile.com/files/RussianFont.png",
-      "size": 38743
     }
   ]
-
 }
